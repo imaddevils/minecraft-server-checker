@@ -1,5 +1,5 @@
-Minecraft Server Checker using MCStatus.io API
-Then sends the information into Discord Webhook
+# Minecraft Server Checker using MCStatus.io API
+Then sends the information into Discord Webhook every 2 minutes
 
 # Usage:
 1. type 'pip install requests' on your console
