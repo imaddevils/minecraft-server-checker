@@ -1,6 +1,10 @@
 Minecraft Server Checker using MCStatus.io API
 Then sends the information into Discord Webhook
 
+# Usage:
+1. type 'pip install requests' on your console
+2. type 'py main.py'
+
 # NOTE = Sometimes it will give wrong info like when the server is online it sends offline
 
 When Online:
